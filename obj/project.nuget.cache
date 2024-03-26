@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPmrTMIJx8X8lgRfiB4is9cFuCd0GPtAwarjJpnI2A42AXB08M1rOb8QUC5JKIe2E0qTZRW+39bJlY5yvlmFsw==",
+  "success": true,
+  "projectFilePath": "/Users/wenzongxuan/Desktop/Deakin/Code/RobotDodge/RobotDodge.csproj",
+  "expectedPackageFiles": [
+    "/Users/wenzongxuan/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/wenzongxuan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/wenzongxuan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
